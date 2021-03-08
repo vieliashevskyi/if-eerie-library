@@ -1,0 +1,22 @@
+=== Library_entry
+
+This was one antique door. Prehistoric. One inaccurate touch and this relic would disappear, turning into a sand in your arms. One gentle push and the whole new world would unfold before your very eyes.
+
+You could clearly imagine how with flow of time town rose around this small forged door. Each day concealing it away further and further into a shadow. Far from people sight. Far from accidental discovery.
+
++ [Slightly push the Door.]
+    From inside it stenched dampness. "Strange. It must smell of old books and dust, but not a stinky old cellar". 
+    -> see_wooden_staircase
+    
+    
+=== see_wooden_staircase
+Two steps into a hall there was a large wooden staircase leading to first floor.
+
++[Head upstairs]
+    Staircase was quite sqeeky but nevertheless solid. First floor was separated from stairs by another door. Single candle on a wall gave miserable amount of light. But it was enough for you to see an elderly librarian. She was sitting behind her desk, hunching over some foliant so deeply that her nose almost touched the page. 
+    
+    Door behind you closed. And she spoke with her hoarse raucous voice. 
+    
+    "Are you aware that only authorized visitors are allowed at all times on premises?"
+
+-> END

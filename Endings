@@ -1,0 +1,17 @@
+// ENDINGS
+=== ending_01
+"If you hesitate. If you turn your back. You won't get another chance. Not in this shithole town. No.", - this was what that creep told me earlier?
+
+You decide to have one last look at eerie building just to realize it's gone. Partially yellow grass in an empty field clamped between two neighboring buildings was lightened by dying sun.
+
+"I guess it's time to get back home. Providance awaits...
+
++ [Afterword]
+    <i>Your journey into the darkness was over before you could find true meaning of your name. You did not dare to look into the eyes of chaos. So I invite you once more to join me.</i> ->restart
+    
+=== restart    
+*<i>So I invite you once more to accompany me.</i>
+    # RESTART
+    -> END
+
+-> END
